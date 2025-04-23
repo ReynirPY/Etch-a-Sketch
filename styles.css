@@ -1,0 +1,20 @@
+h1{
+    color: blueviolet;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    
+    width: 480px;
+    background-color: gray;
+}
+
+.square{
+    
+    height: 30px;
+    width: 30px;
+    background-color: gray;
+    border: 1px solid black;
+}
